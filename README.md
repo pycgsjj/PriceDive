@@ -249,14 +249,9 @@ crontab -e
 3. 实现解析逻辑（详见 [USAGE.md](USAGE.md)）
 4. 添加反爬虫措施（请求头、延迟等）
 
-### 🐦 Twitter API 设置
-1. 前往 [Twitter 开发者平台](https://developer.twitter.com/)
-2. 创建开发者账号
-3. 生成 API 密钥
-4. 添加到 `config.json`
-5. 确保应用有"读写"权限
 
-**注意**：没有 Twitter API 也能正常使用！程序会自动跳过发推步骤。
+
+
 
 ### ⚖️ 法律声明
 本项目**仅供学习和个人使用**。在使用网络爬虫时：

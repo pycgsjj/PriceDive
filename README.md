@@ -545,10 +545,9 @@ If this project helps you:
 - 📣 Tell your friends
 - 💖 Help more consumers avoid scams
 
-## 📞 Contact
 
-- 📧 Email: xdhuang@dail.email
-- 💬 Discussions: GitHub Issues
+
+
 
 ---
 
